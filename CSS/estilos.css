@@ -1,0 +1,44 @@
+.bg-white {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: 10px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.bg-blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.bg-red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.bg-yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 10px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.bg-green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    display:inline-block;
+    vertical-align:top;
+}
