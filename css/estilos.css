@@ -1,18 +1,23 @@
  body {
-                background-color: black;
-            }
-            #titulo1 {
-                color:chocolate;
-            }
-            #parrafo1 {
-                color:brown;
-            }
-            #titulo2 {
-                color: purple;
-            }
-            #parrafo2 {
-                color: green;
-            }
+    background-color: black;
+}
+
+#titulo1 {
+    color:chocolate;
+}
+
+#parrafo1 {
+    color:brown;
+}
+
+#titulo2 {
+    color: purple;
+}
+
+#parrafo2 {
+    color: green;
+}
+
 .bg-white {
     
     width: 100px;
