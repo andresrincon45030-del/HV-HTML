@@ -1,0 +1,25 @@
+.boton {
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 300px;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px 0;
+    background-color: rgb(231, 224, 224);
+}
+
+.caja {
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,104 @@
+.contenedor {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.fila {
+    display: flex;
+}
+
+.columna {
+    width: 33%;
+    float: left;
+    padding: 5px;
+}
+
+#caja1 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 70px;
+    margin: 5px;
+}
+
+#caja2 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 180px;
+    margin: 5px;
+}
+
+#caja3 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 70px;
+    margin: 5px;
+}
+
+#caja4 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 270px;
+    margin: 5px;
+}
+
+#caja5 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 400px;
+    margin: 5px;
+}
+
+#caja6 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    margin: 5px;
+}
+
+#caja7 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    margin: 5px;
+}
+
+#caja8 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 350px;
+    margin: 5px;
+}
+
+#caja9 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 125px;
+    margin: 5px;
+}
+
+#caja10 {
+    float: left;
+    font-style: italic;
+    background-color: aqua;
+    width: 100%;
+    height: 125px;
+    margin: 5px;
+}
