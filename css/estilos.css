@@ -1,131 +1,71 @@
- body {
-     background-color: black;
- }
+body {
+  background-color: #a5a5a5;
+  font-family: Arial;
+}
 
- #titulo1 {
-     color: chocolate;
- }
+#contenedor {
+  width: 85%;
+  margin: 30px auto;
+}
 
- #parrafo1 {
-     color: brown;
- }
+#izquierda {
+  width: 40%;
+  background-color: rgb(35, 41, 59);
+  color: white;
+  padding: 25px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 12px;
+  min-height: 900px; 
+}
 
- #titulo2 {
-     color: purple;
- }
+#derecha {
+  width: 50%;
+  background-color: white;
+  padding: 25px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 12px;
+  min-height: 940px; 
+}
 
- #parrafo2 {
-     color: green;
- }
+.foto {
+  text-align: center;
+  margin-bottom: 30px;
+}
 
- .bg-white {
-     width: 100px;
-     height: 100px;
-     background-color: white;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: left;
- }
+.foto img {
+  width: 160px;
+  height: 210px;
+  border-radius: 10px;
+  border: 5px solid #1f1f3d;
+}
 
- .bg-blue {
-     width: 100px;
-     height: 100px;
-     background-color: blue;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: left;
- }
+.bloque {
+  margin-bottom: 30px;
+}
 
- .bg-red {
-     width: 100px;
-     height: 100px;
-     background-color: red;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: left;
- }
+h1 {
+  margin-bottom: 5px;
+}
 
- .bg-yellow {
-     width: 100px;
-     height: 100px;
-     background-color: yellow;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: left;
- }
+h2 {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-weight: normal;
+  font-style: italic;
+}
 
- .bg-green {
-     width: 100px;
-     height: 100px;
-     background-color: green;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: left;
- }
+h3 {
+  border-bottom: 2px solid #aaa;
+  padding-bottom: 5px;
+  margin-bottom: 12px;
+}
 
- .bg-orange {
-     width: 100px;
-     height: 100px;
-     background-color: orange;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: right;
- }
+p {
+  line-height: 1.5;
+}
 
- .bg-purple {
-     width: 100px;
-     height: 100px;
-     background-color: purple;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: right;
- }
-
- .bg-brown {
-     width: 100px;
-     height: 100px;
-     background-color: rgb(105, 60, 30);
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: right;
- }
-
- .bg-pink {
-     width: 100px;
-     height: 100px;
-     background-color: pink;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: right;
- }
-
- .bg-golden {
-     width: 100px;
-     height: 100px;
-     background-color: goldenrod;
-     margin: 10px;
-     display: inline-block;
-     vertical-align: top;
-     float: right;
- }
-
- .caja {
-     font-style: italic;
-     float: right;
-     width:45%; 
-     height:800px; 
-     border:2px solid black; 
-     background-color: white; 
-     padding:5px; 
-     display:inline-block; 
-     vertical-align:top;
- }
+.bloque p {
+  font-style: italic;
+}
